@@ -1,6 +1,5 @@
 <h1 id="argon-design-system"><a href="https://www.creative-tim.com/product/vue-argon-design-system">DNB Exchange</a></h1>
-
-![Uploading Screen Shot 2564-10-15 at 10.04.13.png…]()
+Uploading Screen Shot 2564-10-15 at 10.04.13.png…
 
 
 <p>Start your development with a Design System for Bootstrap 4. It is open source, free and it features many components that can help you create amazing websites.</p>
